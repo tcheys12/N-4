@@ -1,0 +1,212 @@
+Total SubArray (synaptic core) area=1.8084e-08 m^2
+Total Neuron (neuron peripheries) area=3.0160e-09 m^2
+Total area=2.1100e-08 m^2
+Leakage power of subArrayIH is : 1.5772e-04 W
+Leakage power of subArrayHO is : 2.4517e-05 W
+Leakage power of NeuronIH is : 1.5533e-05 W
+Leakage power of NeuronHO is : 2.4850e-06 W
+Total leakage power of subArray is : 1.8224e-04 W
+Total leakage power of Neuron is : 1.8018e-05 W
+opt: SGD NL:5.00 N: 8 CS: 32 LA: 0.80
+countPotenIH: 1989148ProbabilityIH:0.0577944
+countDepIH: 2512565ProbabilityIH:0.0641716
+countPotenHO: 36402ProbabilityHO:0.048672
+countDepHO: 328810ProbabilityHO:0.0554441
+39.54
+countPotenIH: 179327ProbabilityIH:0.00451337
+countDepIH: 237112ProbabilityIH:0.00706202
+countPotenHO: 2461ProbabilityHO:0.00329016
+countDepHO: 36248ProbabilityHO:0.00610424
+60.97
+countPotenIH: 85624ProbabilityIH:0.00219582
+countDepIH: 131968ProbabilityIH:0.00390487
+countPotenHO: 293ProbabilityHO:0.000391736
+countDepHO: 2321ProbabilityHO:0.000390996
+72.05
+countPotenIH: 53695ProbabilityIH:0.00136919
+countDepIH: 85058ProbabilityIH:0.00251718
+countPotenHO: 130ProbabilityHO:0.000173763
+countDepHO: 575ProbabilityHO:9.6854e-05
+61.71
+countPotenIH: 37105ProbabilityIH:0.000951668
+countDepIH: 62489ProbabilityIH:0.0018896
+countPotenHO: 111ProbabilityHO:0.000148436
+countDepHO: 0ProbabilityHO:0
+73.38
+countPotenIH: 31597ProbabilityIH:0.000797379
+countDepIH: 54563ProbabilityIH:0.00162484
+countPotenHO: 101ProbabilityHO:0.000135227
+countDepHO: 0ProbabilityHO:0
+69.11
+countPotenIH: 25046ProbabilityIH:0.000629451
+countDepIH: 46326ProbabilityIH:0.00138488
+countPotenHO: 96ProbabilityHO:0.000128369
+countDepHO: 0ProbabilityHO:0
+67.26
+countPotenIH: 17473ProbabilityIH:0.000445339
+countDepIH: 36380ProbabilityIH:0.00108734
+countPotenHO: 40ProbabilityHO:5.34877e-05
+countDepHO: 0ProbabilityHO:0
+70.70
+countPotenIH: 13155ProbabilityIH:0.000330752
+countDepIH: 28229ProbabilityIH:0.000856337
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+61.31
+countPotenIH: 11920ProbabilityIH:0.000298073
+countDepIH: 29167ProbabilityIH:0.000890202
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+72.71
+countPotenIH: 10910ProbabilityIH:0.000272614
+countDepIH: 27277ProbabilityIH:0.00083337
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+57.06
+countPotenIH: 11228ProbabilityIH:0.000286054
+countDepIH: 24973ProbabilityIH:0.000735866
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+65.13
+countPotenIH: 11865ProbabilityIH:0.000300819
+countDepIH: 21706ProbabilityIH:0.000654172
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+66.67
+countPotenIH: 11367ProbabilityIH:0.000287151
+countDepIH: 20399ProbabilityIH:0.000616096
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+63.10
+countPotenIH: 10593ProbabilityIH:0.00026643
+countDepIH: 19943ProbabilityIH:0.000597408
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+65.79
+countPotenIH: 9493ProbabilityIH:0.000239774
+countDepIH: 20445ProbabilityIH:0.000617032
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+66.05
+countPotenIH: 9161ProbabilityIH:0.000232974
+countDepIH: 20155ProbabilityIH:0.00060285
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+65.25
+countPotenIH: 9407ProbabilityIH:0.000233361
+countDepIH: 19260ProbabilityIH:0.000581985
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+65.76
+countPotenIH: 8607ProbabilityIH:0.000216668
+countDepIH: 19530ProbabilityIH:0.000581571
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+68.22
+countPotenIH: 7421ProbabilityIH:0.000188462
+countDepIH: 19586ProbabilityIH:0.000592032
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+66.57
+countPotenIH: 6935ProbabilityIH:0.000175409
+countDepIH: 18021ProbabilityIH:0.000537829
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+64.11
+countPotenIH: 6924ProbabilityIH:0.0001755
+countDepIH: 16781ProbabilityIH:0.000498358
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+74.69
+countPotenIH: 5629ProbabilityIH:0.000142238
+countDepIH: 17925ProbabilityIH:0.000539059
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+57.36
+countPotenIH: 5547ProbabilityIH:0.000141286
+countDepIH: 16927ProbabilityIH:0.000503282
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+78.35
+countPotenIH: 5652ProbabilityIH:0.000145825
+countDepIH: 15637ProbabilityIH:0.000460974
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+63.27
+countPotenIH: 5338ProbabilityIH:0.000134531
+countDepIH: 16232ProbabilityIH:0.00048929
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+65.09
+countPotenIH: 5328ProbabilityIH:0.000133842
+countDepIH: 15545ProbabilityIH:0.000468138
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+70.97
+countPotenIH: 5626ProbabilityIH:0.000142396
+countDepIH: 13397ProbabilityIH:0.000398588
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+68.74
+countPotenIH: 5227ProbabilityIH:0.000133265
+countDepIH: 13431ProbabilityIH:0.000403256
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+67.36
+countPotenIH: 4914ProbabilityIH:0.000124158
+countDepIH: 13089ProbabilityIH:0.000391077
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+64.09
+countPotenIH: 4849ProbabilityIH:0.000123019
+countDepIH: 12455ProbabilityIH:0.000376142
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+71.67
+countPotenIH: 4524ProbabilityIH:0.000113786
+countDepIH: 12726ProbabilityIH:0.000381861
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+73.49
+countPotenIH: 3929ProbabilityIH:0.000100655
+countDepIH: 12668ProbabilityIH:0.000379381
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+68.28
+countPotenIH: 4058ProbabilityIH:0.000103285
+countDepIH: 11135ProbabilityIH:0.000329889
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+60.56
+countPotenIH: 3799ProbabilityIH:9.7391e-05
+countDepIH: 10935ProbabilityIH:0.000325966
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+70.06
+countPotenIH: 3557ProbabilityIH:9.11801e-05
+countDepIH: 10980ProbabilityIH:0.000323613
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+69.47
+countPotenIH: 3726ProbabilityIH:9.56452e-05
+countDepIH: 10163ProbabilityIH:0.000300401
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+67.29
+countPotenIH: 3591ProbabilityIH:9.15073e-05
+countDepIH: 9758ProbabilityIH:0.000292157
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+65.21
+countPotenIH: 3531ProbabilityIH:8.90732e-05
+countDepIH: 8903ProbabilityIH:0.000268796
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+71.64
+countPotenIH: 3437ProbabilityIH:8.6485e-05
+countDepIH: 8812ProbabilityIH:0.000264788
+countPotenHO: 0ProbabilityHO:0
+countDepHO: 0ProbabilityHO:0
+66.92
+AV: 68.11
+
